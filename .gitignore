@@ -1,0 +1,60 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#  Jupyter 
+# Ignore auto-saved notebook checkpoints
+**/.ipynb_checkpoints/
+*-checkpoint.ipynb
+# Ignore nbconvert artifacts (optional)
+*.nbconvert.ipynb
+
+#  Python bytecode / cache 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+#  Virtual environments (keep envs out of the repo) 
+.venv/
+venv/
+env/
+.conda/
+.mamba/
+
+#  Build & packaging 
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+#  Logs & temp files 
+*.log
+logs/
+tmp/
+temp/
+.cache/
+*.tmp
+
+#  Test / coverage / linters 
+.pytest_cache/
+.coverage
+coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+#  IDE / Editors 
+.vscode/
+.idea/
+*.code-workspace
+
+#  Windows (harmless on macOS; keeps repo cross-platform clean) 
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
