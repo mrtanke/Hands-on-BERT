@@ -20,3 +20,4 @@ PyYAML==6.0.2
 requests==2.32.4
 pillow==11.3.0
 bertviz==1.4.1
+datasets-4.0.0
