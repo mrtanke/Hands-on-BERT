@@ -33,6 +33,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## License
-
-For learning/teaching.
+## Credits
+Portions of this project are adapted from
+[bilibili_vlogs](https://github.com/chunhuizhang/bilibili_vlogs).    
+© Original copyright to the respective author(s). All rights reserved unless otherwise stated.
