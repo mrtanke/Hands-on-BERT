@@ -1,0 +1,22 @@
+# Core ML / NLP
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+transformers==4.55.4
+tokenizers==0.21.4
+huggingface-hub==0.34.4
+safetensors==0.6.2
+sentencepiece==0.2.1
+
+# Data & Sci stack
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.1
+tqdm==4.67.1
+regex==2025.7.34
+filelock==3.19.1
+fsspec==2025.7.0
+PyYAML==6.0.2
+requests==2.32.4
+pillow==11.3.0
+bertviz==1.4.1
