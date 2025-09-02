@@ -1,4 +1,6 @@
-# BERT Mini Notebooks
+# Hands-on-BERT
+
+## BERT Mini Notebooks
 
 A compact set of Jupyter notebooks that walk from **tokenization → embeddings → attention → residual+norm → pooler → MLM** with minimal, runnable examples.
 
