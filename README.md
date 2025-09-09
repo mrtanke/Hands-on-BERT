@@ -4,6 +4,8 @@
 
 A compact set of Jupyter notebooks that walk from **tokenization → embeddings → attention → residual+norm → pooler → MLM** with minimal, runnable examples.
 
+<img width="400" height="800" alt="image" src="/tutorials/samples/bert_model.png" />
+
 ## Requirements
 Reference Environment
 - Python 3.10.18
